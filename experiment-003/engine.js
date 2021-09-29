@@ -49,7 +49,7 @@ class Engine {
 		let elm = document.createElement('img');
 		
 		// link to the image for the ball, the ball image is 32, 32 pixels
-		elm.src = '/mobile/programming/experiments/experiment-003/ball.png';
+		elm.src = 'ball.png';
 		
 		// bit more css to get it working, absolutely positioned and
 		// a little css hack to stop the balls from being selected when clicking
