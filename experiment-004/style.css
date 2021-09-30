@@ -1,0 +1,11 @@
+html, body {
+    margin: 0px;
+    height: 100%;
+}
+
+.screen {
+    display: block;
+    width: 100%;
+    background-color: darkgray;
+    height: 100%;
+}
