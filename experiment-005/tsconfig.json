@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        //"module": "commonjs",
+        "outDir": "out",
+        "sourceMap": true,
+        "target": "ES6",
+        "outFile": "./out/experiment-05.js"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
